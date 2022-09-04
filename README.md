@@ -2,6 +2,8 @@
 
 # Deployed link : https://ishika-bhute.github.io/Kratin-Project/
 
+#It is a senior-citizen-friendly site, which focuses on increasing and maintaining the overall health and fitness of old people. This site is designed keeping the perspective of old people in mind, thus keeping the interface extremely user and age-friendly. It includes diet plans and also helps senior citizens work on their physical and mental health. Following the footsteps of “Good Fellows”, a recent initiative started by Sir Ratan Tata, I have made an attempt to create a site for the health and overall wellness of senior citizens, specifically targeting people above 65 years of age. It is an extremely emergency-efficient site that enables the user to contact the nearest hospitals and receive the required medical aid in time. The user can also contact us in case of confusion and emergency situation.  Our main aim is to create an environment of empathy, care, and compassion for people in the age group of 65 years and above.
+
 
 
 #output
